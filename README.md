@@ -9,7 +9,7 @@ I'm currently based in **[Entre Rios, Arg.](https://maps.app.goo.gl/EfGJt9wwPKaf
 
 
 Please feel free to clone/fork projects, raise issues and submit PRs if you think something could be better.<br />
-Ask me anything **[here](https://github.com/abdoachhoubi/abdoachhoubi/issues/new](https://github.com/juancraiz/juancraiz/issues/new)** or <a href="juanmartincruzrap@gmail.com"><b>send me an email</b></a>.
+Ask me anything **[here](https://github.com/juancraiz/juancraiz/issues/new)** or <a href="juanmartincruzrap@gmail.com"><b>send me an email</b></a>.
 <br />
 <br />
 
